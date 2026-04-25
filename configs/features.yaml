@@ -1,0 +1,9 @@
+target_column: Close
+
+feature_columns:
+  - Close
+  - Returns
+  - Ma_7
+  - Ma_30
+  - Volatility
+  - Lag_1

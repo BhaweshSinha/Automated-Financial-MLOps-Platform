@@ -1,0 +1,5 @@
+raw_data_path: data/combined_dataset/combined_data.csv
+processed_data_path: data/processed/final_data.csv
+
+train_data_path: data/splits/train.csv
+test_data_path: data/splits/test.csv

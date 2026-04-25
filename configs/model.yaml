@@ -1,0 +1,26 @@
+problem_type: classification
+target_column: target
+model_save_path: models/best_model.pkl
+baseline_model_path: models/baseline_model.pkl
+scaler_path: models/scaler.pkl
+metrics_path: models/final_metrics.json
+experiment_results_path: models/experiment_results.json
+baseline_metrics_path: models/baseline_metrics.json
+models:
+  logistic_regression:
+    C: 1.0
+    max_iter: 200
+  random_forest:
+    n_estimators: 100
+    max_depth: 10
+  gradient_boosting:
+    n_estimators: 100
+    learning_rate: 0.1
+  xgboost:
+    n_estimators: 200
+    max_depth: 6
+    learning_rate: 0.1
+    subsample: 0.8
+    colsample_bytree: 0.8
+    use_label_encoder: false
+    eval_metric: logloss
