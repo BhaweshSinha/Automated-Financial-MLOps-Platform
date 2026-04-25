@@ -1,7 +1,7 @@
 """
 Prediction Pipeline Test Script.
 Creates a sample input, runs it through the prediction pipeline,
-and prints the predicted output and probability.
+and prints the predicted output and probability of the stock price.
 """
 from pipeline.prediction_pipeline import PredictionPipeline
 import pandas as pd
