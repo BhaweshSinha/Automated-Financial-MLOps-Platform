@@ -6,7 +6,7 @@ For Advanced EDA report, please refer to: [ADVANCED EDA REPORT](docs/observation
 For Phases and Work log, please refer to: [WORK LOG DOCUMENT](work_logs/work_log.md)
 ---
 ---
-For Phases and Work log, please refer to: [MARKEt RESEARCH DOCUMENT](market_research/market_research.md)
+For Phases and Work log, please refer to: [MARKET RESEARCH](market_research/market_research.md)
 ---
 ## 🚀 Overview
 
