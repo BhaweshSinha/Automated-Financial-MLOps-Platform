@@ -8,5 +8,4 @@ tqdm
 python-dotenv
 jupyter
 ipykernel
----------------
 plotly dash
