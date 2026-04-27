@@ -7,6 +7,8 @@ For Phases & Work log, please refer to: [WORK LOG DOCUMENT](work_logs/work_log.m
 ---
 For Market research & Insights, please refer to: [MARKET RESEARCH](market_research/market_research.md)
 ---
+For AWS API Server Public link, please refer to: [API (Will be updated soon)]()
+---
 ## 🚀 Overview
 
 This project presents a **production-oriented Financial MLOps Platform** designed to predict the **next-day direction of stock prices (up/down)** across multiple assets.
