@@ -3,7 +3,8 @@
 ## 🚀 Live Deployment
 Deployed on AWS EC2 using FastAPI, Gunicorn, and Nginx.
 ---
-🔗 API Endpoint: [http://3.109.214.89], 📄 API Docs (Swagger): [http://3.109.214.89/docs]
+API Endpoint: [http://3.109.214.89]
+API Docs (Swagger): [http://3.109.214.89/docs]
 ---
 For Advanced EDA report, please refer to: [ADVANCED EDA REPORT](docs/observations/advanced_eda_report.md)
 ---
