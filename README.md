@@ -3,7 +3,7 @@
 ## 🚀 Live Deployment
 Deployed on AWS EC2 using FastAPI, Gunicorn, and Nginx.
 ---
-API Endpoint Panel: [http://3.109.214.89]
+PI Endpoint Panel: [http://3.109.214.89]
 ---
 API Docs (Swagger) Panel: [http://3.109.214.89/docs]
 ---
