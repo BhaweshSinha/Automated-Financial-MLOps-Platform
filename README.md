@@ -5,7 +5,7 @@ Deployed on AWS EC2 using FastAPI, Gunicorn, and Nginx.
 ---
 API Endpoint Panel: (Temporarily unavailable)
 ---
-API Docs (Swagger) Panel: [http://3.109.214.89/docs] (Temporarily unavailable)
+API Docs (Swagger) Panel: (Temporarily unavailable)
 ---
 For Advanced EDA report, please refer to: [ADVANCED EDA REPORT](docs/observations/advanced_eda_report.md)
 ---
