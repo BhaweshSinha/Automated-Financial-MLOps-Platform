@@ -1,6 +1,6 @@
 # 📊 Automated Financial MLOps Platform
 ## Multi-Asset Stock Direction Prediction System
-## 🚀 Live Deployment
+# 🚀 Live Deployment
 Deployed on AWS EC2 using FastAPI, Gunicorn, and Nginx.
 ---
 API Endpoint Panel: [http://3.109.214.89] (Temporarily unavailable)
